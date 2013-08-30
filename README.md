@@ -14,11 +14,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install shareit
+    $ gem build shareit.gemspec
 
 ## Usage
 
-TODO: Write usage instructions here
+In theory its as simple as "shareit" in the directory you wish to share.
 
 ## Contributing
 
