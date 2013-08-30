@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'shareit/server'
+
+Shareit::Server.new.run!
